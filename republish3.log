@@ -11,3 +11,21 @@
 📝 [1/7] git 既に初期化済み (スキップ)
 📝 [2/7] .nojekyll 既存 (スキップ)
 📝 [3/7] git add && commit...
+✅ [3/7] コミット完了
+📝 [4/7] GitHubリポジトリ作成...
+⚠️ [4/7] リポジトリ既存: kiraxxxxxx/kikyo-reel-sched-caaa3c (remote設定のみ)
+📝 [5/7] git push...
+✅ [5/7] push 完了
+📝 [6/7] GitHub Pages 有効化...
+⚠️ [6/7] Pages 有効化の応答: {"message":"GitHub Pages is already enabled.","documentation_url":"https://docs.github.com/rest/pages/pages#create-a-apiname-pages-site","status":"409"}gh: GitHub Pages is already enabled. (HTTP 409)
+📝 [7/7] ビルド完了を待機中...
+✅ [7/7] ビルド完了・公開確認 (HTTP 200)
+
+══════════════════════════════════════════════════
+✅ mock-url-publish 完了
+══════════════════════════════════════════════════
+📦 Repository: https://github.com/kiraxxxxxx/kikyo-reel-sched-caaa3c
+🌐 Public URL: https://kiraxxxxxx.github.io/kikyo-reel-sched-caaa3c/
+📅 公開時刻: 2026-09-18 20:59:02
+🔢 最新コミット: eeccdb5 reel schedule for client review
+══════════════════════════════════════════════════
